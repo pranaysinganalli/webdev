@@ -1,0 +1,5 @@
+.background{
+	background: url("images/bussy.png") no-repeat center center fixed;
+	filter: blur(4px);
+	height: 100%;
+}
